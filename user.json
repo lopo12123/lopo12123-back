@@ -1,0 +1,12 @@
+[
+    {
+        "account": "admin",
+        "password": "admin123",
+        "token": "9f61f24a-5f2a-4133-ba69-ecfed7059587"
+    },
+    {
+        "account": "lopo",
+        "password": "admin123",
+        "token": "8a5cde22-72ff-4ac2-80f2-1ef180a1d036"
+    }
+]
